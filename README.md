@@ -69,5 +69,5 @@ List of the commands/scripts mentioned:
 
 ## **8. SpeedTest-Cli**
    - The Famous Ookla Website. Used for measuring Download/Upload Speeds + Ping and Jitter
-   >     $   curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash
+   >     $ curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash
    >     $ sudo apt install speedtest

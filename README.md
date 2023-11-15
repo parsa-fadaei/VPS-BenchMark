@@ -1,5 +1,5 @@
 # VPS-BenchMark
-A Breif Instruction Set on Benchmarking a Newly Configured Linux VPS.
+A Brief Intro on Benchmarking a Newly Configured Linux VPS.
 
 This Repository can come in handy for Sysadmins/Users that are trying to measure and benchmark the performance of their newly bought/rented Linux Server.
 
@@ -29,10 +29,10 @@ List of the commands/scripts mentioned:
 
 ### **3. dd**
    - Used to benchmark disk read/write speed and CPU performance
-     ## Disk write speed (1GB, 1M Block Size):
+     ## Disk Write Speed (1GB, 1M Block Size):
      >     $     dd if=/dev/zero of=tmpfile bs=1M count=1024 conv=fdatasync
 
-     ## Disk read speed
+     ## Disk Read Speed
      1. Delete Buffer Cache:
      >     $    sudo /sbin/sysctl -w vm.drop_caches=3
      2. Read tmpfile (Created in Writing Section)

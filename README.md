@@ -47,7 +47,7 @@ List of the commands/scripts mentioned:
 
 
 ### **4. YABS (Yet Another Benchmark Script)**
-   - Used to run fio, iperf3 and geekbench scripts.
+   - Used to run **fio**, **iperf3** and **geekbench** scripts.
      >     $ wget -qO- yabs.sh | bash
 
 

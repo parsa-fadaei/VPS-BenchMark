@@ -1,4 +1,4 @@
-# VPS-BenchMark
+# VPS-Benchmark
 A Brief Intro on Benchmarking a Newly Configured Linux VPS.
 
 This Repository can come in handy for Sysadmins/Users that are trying to measure and benchmark the performance of their newly bought/rented Linux Server.

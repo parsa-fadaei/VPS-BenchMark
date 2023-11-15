@@ -40,7 +40,7 @@ List of the commands/scripts mentioned:
      3. Delete tmpfile after testing:
      >     $    rm tmpfile
  
-   CPU Bench
+   # CPU Bench
    >     $  dd if=/dev/zero bs=1M count=1024 | md5sum
   # *** A minimum of 300MB/s is accpeted, lower means --> Bad Performance, Probably an overloaded CPU or Limited CPU Core Performance Allowance From Host.
    

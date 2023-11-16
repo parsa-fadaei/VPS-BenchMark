@@ -41,7 +41,7 @@ List of the commands/scripts mentioned:
      >     $    rm tmpfile
  
      ## CPU Bench
-   >     $  dd if=/dev/zero bs=1M count=1024 | md5sum
+     >     $  dd if=/dev/zero bs=1M count=1024 | md5sum
    *** A minimum of 300MB/s is accpeted, lower means --> Bad Performance, Probably an overloaded CPU or Limited CPU Core Performance Allowance From Host.
    
 
